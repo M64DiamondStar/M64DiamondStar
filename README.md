@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @M64DiamondStar
-- 👀 I’m interested in coding, especially in Kotlin and Java. And anime heheh
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m M64
+- 📚 I study Computer Science at KU Leuven in Belgium
+- 🌱 My favorite language is Kotlin
 - 📫 How to reach me: @m64_ on Discord!
 
 <!---
